@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="XUnit" Version="2.4.0" />
+    <PackageReference Include="XUnit.Runner.VisualStudio" Version="2.4.0" />
+    <PackageReference Include="Markdig" Version="0.20.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppSoftware.KatexSharpRunner\AppSoftware.KatexSharpRunner.csproj" />
+  </ItemGroup>
+
+</Project>

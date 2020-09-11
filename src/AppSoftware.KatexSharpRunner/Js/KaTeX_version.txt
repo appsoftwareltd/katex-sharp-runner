@@ -1,0 +1,13 @@
+﻿Version 0.12.0
+
+https://cdnjs.com/libraries/KaTeX
+
+https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.js
+https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css
+
+
+
+
+
+
+
