@@ -151,3 +151,15 @@ The GPLv3 allows others to copy, distribute and modify the software as long as t
 ### Commercial License
 
 Please contact us at mail@appsoftware.com with your use case for pricing and licence information.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### KaTeX
+
+Please see https://github.com/KaTeX/KaTeX/blob/master/LICENSE for information regarding the KaTeX library which this project depends on. No relationsip with the KaTeX project is implied by it's use in this project.
