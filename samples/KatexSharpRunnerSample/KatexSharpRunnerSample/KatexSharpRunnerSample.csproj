@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="AppSoftware.KatexSharpRunner" Version="0.1.0" />
+    <PackageReference Include="Jint" Version="2.11.58" />
   </ItemGroup>
 
 </Project>
