@@ -31,9 +31,20 @@ The KaTeX JS library is included in the AppSoftware.KatexSharpRunner NuGet packa
 
 ```
 
+## Try It Out
+
+Katex Sharp Runner powers the LaTeX rendering on [AppSoftware Journals](https://journals.appsoftware.com/choose-plan) if you would like to try it out first.
+
 ## Sample Code
 
 A sample project can be found at https://github.com/appsoftwareltd/katex-sharp-runner/tree/master/samples
+
+**Note on performance:**
+
+Using the async method overload `RenderToStringAsync`, each render looked to take around 10ms in testing
+on a Surface Book 2 (1.9GHz Intel Core i7-8650U). This is after `KatexJsLatexProcessor` has been initialised
+(which takes substantially longer, approx 500ms per jintEngineCount). For this reason a single instance
+of KatexJsLatexProcessor is recommended per application instance. See comments below regarding thread safety.
 
 ```csharp
 using System;
