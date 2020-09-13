@@ -35,7 +35,7 @@ The KaTeX JS library is included in the AppSoftware.KatexSharpRunner NuGet packa
 
 Katex Sharp Runner powers the LaTeX rendering on [AppSoftware Journals](https://journals.appsoftware.com/choose-plan) if you would like to try it out first.
 
-![KaTeX rendering example on AppSoftware Journals](https://raw.githubusercontent.com/appsoftwareltd/katex-sharp-runner/master/resources/katex_render_example.png)
+![KaTeX rendering example on AppSoftware Journals](https://raw.githubusercontent.com/appsoftwareltd/katex-sharp-runner/master/resources/katex_render_example_as_journals.png)
 
 ## Sample Code
 
